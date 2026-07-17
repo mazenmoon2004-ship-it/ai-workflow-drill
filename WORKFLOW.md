@@ -42,3 +42,5 @@ This project is a Next.js App Router exercise focused on building a structured s
 - Prefer schema-driven validation over ad hoc checks.
 - Ensure labels, `aria-invalid`, and error message associations remain accessible.
 - Review should include both implementation quality and test coverage expectations.
+Although the prompt requested tests, the AI did not generate them. 
+Verification was instead performed manually using `npm run build` and runtime testing, highlighting the importance of enforcing the verification loop.
